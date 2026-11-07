@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Bu veri ve kodu kullanırsanız lütfen aşağıdaki şekilde atıf yapınız."
+title: "İstanbul'da tropikal geceler, 1950–2025: veri ve analiz kodu"
+authors:
+  - family-names: "Aydın"
+    given-names: "Mustafa Berk"
+    affiliation: "Üsküdar Amerikan Lisesi"
+    orcid: "https://orcid.org/0009-0003-6296-3910"
+date-released: "2026-11-08"
+license: MIT
+repository-code: "https://github.com/berkaydiin/istanbul-tropical-nights"
+keywords: [tropical nights, Istanbul, ERA5-Land, climate change, Mann-Kendall]
+preferred-citation:
+  type: conference-paper
+  title: "İstanbul'da tropikal geceler ikiye katlandı: 1950–2025 dönemi için ERA5-Land ve istasyon verilerine dayalı bir değerlendirme"
+  authors:
+    - family-names: "Aydın"
+      given-names: "Mustafa Berk"
+      orcid: "https://orcid.org/0009-0003-6296-3910"
+  collection-title: "Uluslararası Sürdürülebilir Su Yönetimi ve İklim Değişikliği Kongresi"
+  conference:
+    name: "Uluslararası Sürdürülebilir Su Yönetimi ve İklim Değişikliği Kongresi"
+    city: "Elazığ"
+    country: TR
+    date-start: "2026-11-11"
+    date-end: "2026-11-14"
+  year: 2026
