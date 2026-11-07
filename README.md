@@ -77,8 +77,6 @@ Open-Meteo verileri CC BY 4.0 lisansıyla sunulmaktadır. ERA5 ürünleri Copern
 - Projeksiyon tek bir senaryoya (SSP5-8.5) dayanır.
 - Sağlık etkileri için İstanbul'a özgü veri kullanılmamıştır. Bildiride başka ülkelerdeki çalışmalardan aktarılmıştır.
 
-<!-- Yapay zekâ kullanım beyanı buraya eklenecek -->
-
 ## Lisans
 
 Kod [MIT lisansı](LICENSE) ile, `data/` ve `results/` klasörlerindeki türetilmiş tablolar ile `figures/` klasöründeki şekiller [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) lisansı ile paylaşılmaktadır. Kullanırken bildiriye atıf yapınız (bkz. `CITATION.cff`).
